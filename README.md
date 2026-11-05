@@ -1,0 +1,115 @@
+<p align="center">
+     <img src=".github/downloads-logo.png">
+</p>
+<h1 align="center">Downloads Page of ArsenTech's Official Website</h1>
+<p align="center">
+     <a href="https://github.com/ArsenTech/downloads/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
+     &nbsp;&middot;&nbsp;
+     <a href="https://github.com/ArsenTech/downloads/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
+</p>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![project_license][license-shield]][license-url]
+
+[![Issues][issues-shield]][issues-url]
+![GitHub Created At][created-at-shield]
+![GitHub repo size][repo-size-shield]
+
+> [!WARNING]
+> What you are seeing is the old version of the downloads page before migration.
+> This repository is no longer actively maintained or supported. Please migrate to [`ArsenTech/ArsenTech`](https://github.com/ArsenTech/ArsenTech) instead.
+
+## About
+This Page Has Downloads of software, Windows Versions, DOS, and Much More. You can Download Files from my collection (that collection isn't massive).
+### Features Included
+- Dark Mode
+- Search Bar
+- New Downloader for Wallpapers
+- External Download Links
+- Animated Download Button
+### Website Speed
+- **Google PageSpeed Insights Score**: 98 on Mobile, 100 on Desktop
+- **Pingdom Website Speed Test Score**: 95
+- **GTMetrix Score**: Performance - 99%, Structure - 99%
+### Built with
+- [![HTML][html-shield]][html-url]
+- [![CSS][css-shield]][css-url]
+- [![JavaScript][js-shield]][js-url]
+
+## Versioning
+This website follows [Semantic Versioning](https://semver.org/). You can view the full [Changelog][changelog-url] for details on each website version.
+
+## Contributing
+Contributions are Always Welcome! Please read both [Code of Conduct][code-of-conduct-url] and [CONTRIBUTING.md][contributing-url] before contributing.
+### Top Contributors
+[![Top Contributors][top-contributors]][contributors-url]
+
+## FAQs
+
+See detailed FAQs here:
+
+➡️ [FAQs](./docs/FAQ.md)
+
+## Star History
+[![Star History Chart][star-history-chart]][star-history-url]
+
+## License
+Distributed under the MIT License. See [LICENSE.md][license-url] for more information.
+
+## Support And Follow
+[![YouTube][yt-shield]][yt-url]
+[![Patreon][patreon-shield]][patreon-url]
+[![Codepen][codepen-shield]][codepen-url]
+[![DeviantArt][deviantart-shield]][deviantart-url]
+[![Odysee][odysee-shield]][odysee-url]
+[![Scratch][scratch-shield]][scratch-url]
+
+> GitHub [@ArsenTech][github-url] &nbsp;&middot;&nbsp;
+> YouTube [@ArsenTech][yt-url] &nbsp;&middot;&nbsp;
+> Patreon [ArsenTech][patreon-url] &nbsp;&middot;&nbsp;
+> [ArsenTech's Website][website-url]
+
+[star-history-chart]: https://api.star-history.com/svg?repos=ArsenTech/downloads&type=Date
+[star-history-url]: https://api.star-history.com/svg?repos=ArsenTech/downloads&type=Date
+[contributors-shield]: https://img.shields.io/github/contributors/ArsenTech/downloads.svg?style=for-the-badge&color=%2322b455
+[contributors-url]: https://github.com/ArsenTech/downloads/graphs/contributors
+[top-contributors]: https://contrib.rocks/image?repo=ArsenTech/downloads
+[forks-shield]: https://img.shields.io/github/forks/ArsenTech/downloads.svg?style=for-the-badge&color=%2322b455
+[forks-url]: https://github.com/ArsenTech/downloads/network/members
+[stars-shield]: https://img.shields.io/github/stars/ArsenTech/downloads.svg?style=for-the-badge&color=%2322b455
+[stars-url]: https://github.com/ArsenTech/downloads/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ArsenTech/downloads.svg?style=for-the-badge
+[issues-url]: https://github.com/ArsenTech/downloads/issues
+[license-shield]: https://img.shields.io/github/license/ArsenTech/downloads?color=%2322b455&style=for-the-badge
+[license-url]: https://github.com/ArsenTech/downloads/blob/main/LICENSE.md
+[created-at-shield]: https://img.shields.io/github/created-at/ArsenTech/downloads?style=for-the-badge
+[repo-size-shield]: https://img.shields.io/github/repo-size/ArsenTech/downloads?style=for-the-badge
+[code-of-conduct-url]: https://github.com/ArsenTech/downloads/blob/main/docs/CODE_OF_CONDUCT.md
+[contributing-url]: https://github.com/ArsenTech/downloads/blob/main/docs/CONTRIBUTING.md
+[changelog-url]: https://github.com/ArsenTech/downloads/blob/main/CHANGELOG.md
+[website-url]: https://arsentech-yt.vercel.app
+
+<!-- Languages -->
+[html-shield]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-url]:https://developer.mozilla.org/en-US/docs/Web/HTML
+[css-shield]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[js-shield]:https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+<!-- External Links -->
+[yt-shield]: https://img.shields.io/badge/ArsenTech%20-222222.svg?&style=for-the-badge&logo=YouTube&logoColor=%23FF0000
+[yt-url]:https://www.youtube.com/channel/UCrtH0g6NE8tW5VIEgDySYtg
+[patreon-shield]:https://img.shields.io/badge/-ArsenTech-222222?style=for-the-badge&logo=patreon&logoColor=white
+[patreon-url]:https://www.patreon.com/ArsenTech
+[codepen-shield]: https://img.shields.io/badge/-ArsenTech-222222?style=for-the-badge&logo=codepen&logoColor=white
+[codepen-url]: https://codepen.io/ArsenTech
+[deviantart-shield]: https://img.shields.io/badge/-Arsen2005-222222?style=for-the-badge&logo=deviantart&logoColor=05cc46
+[deviantart-url]: https://www.deviantart.com/arsen2005
+[odysee-shield]: https://img.shields.io/badge/-ArsenTech-222222?style=for-the-badge&logo=odysee&logoColor=FA9626
+[odysee-url]: https://odysee.com/@ArsenTech
+[scratch-shield]: https://img.shields.io/badge/-ArsenTech-222222?style=for-the-badge&logo=scratch&logoColor=orange
+[scratch-url]: https://scratch.mit.edu/users/ArsenTech/
+[github-url]: https://github.com/ArsenTech
